@@ -1,0 +1,1 @@
+[K,e_k] = solucion_problA(4,0.1,1,1e-4)

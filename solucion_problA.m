@@ -1,4 +1,11 @@
 ################################################################################
+#
+# Procesamiento Adaptativo
+# Ronny Jiménez, Fabricio León
+#
+################################################################################
+
+
 # Funcion que soluciona el problema A.
 function [K,e_k] = solucion_problA(m,rho,sigma,tol)
   # Se crea una matriz de triple diagonal "A".

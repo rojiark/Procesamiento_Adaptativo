@@ -1,4 +1,11 @@
 ################################################################################
+#
+# Procesamiento Adaptativo
+# Ronny Jiménez, Fabricio León
+#
+################################################################################
+
+
 # Funcion que retorna la aproximación de la inversa "x" de la matriz "A".
 # La condicion de parada esta dada por la norma de frobenius ||A*x-I||.
 function x = aprox_inv(A,tol)

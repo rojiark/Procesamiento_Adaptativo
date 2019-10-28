@@ -1,4 +1,11 @@
 ################################################################################
+#
+# Procesamiento Adaptativo
+# Ronny Jiménez, Fabricio León
+#
+################################################################################
+
+
 # Funcion que retorna como resultado una matriz "A" con tres diagonales.
 # Una diagonal central de valor "cen". Una diagonal a la izquierda de esta de
 # valor "izq" y otra diagonal a la derecha de la central de valor "der".

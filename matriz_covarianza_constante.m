@@ -1,4 +1,11 @@
 ################################################################################
+#
+# Procesamiento Adaptativo
+# Ronny Jiménez, Fabricio León
+#
+################################################################################
+
+
 # Function que retorna una matriz de covarianza "Rxx" constante con parametro
 # "rho" y tamaño m x m.
 function Rxx = matriz_covarianza_constante(rho,m)

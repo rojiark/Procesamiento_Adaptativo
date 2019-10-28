@@ -1,0 +1,19 @@
+Ronny Jiménez, Fabricio León
+
+Pregunta 1 viene resuelta en el archuvo Tarea_1_Pregunta_1.pdf
+
+Pregunta 2 (Problema A) tiene varios archivos:
+	
+	* aprox_inv.m	-------> inciso (a)
+	* solucion_problA.m ---> inciso (b)
+	* graficas.m 	-------> inciso (c)
+
+
+Hay otros archivos necesarios para la correcta ejecucion del mismo, como:
+	
+	- matriz_constante.m
+	- matriz_covarianza_constante.m
+	- triple_diagonal.m
+
+Para ejecutar el script que se solicita en el inciso (c) solo debe de ejecutar en Octave el archivo graficas.m. El mismo llama a cada uno de los archivos necesarios y va a desplegar las 3 gráficas que se solicitan.
+
